@@ -46,7 +46,7 @@
   "customers": [
     {
       "id": 1,
-      "address": "2802 Zula Locks",
+      "address": "2802 Puma Locks",
       "phoneNumber": "852-837-9713",
       "userId": 2
     },
@@ -66,8 +66,8 @@
   "employees": [
     {
       "id": 1,
-      "specialty": "Smashing Computers",
-      "rate": 100.01,
+      "specialty": "Smashing Computers and wiping boogers off keyboard",
+      "rate": 100.02,
       "userId": 4
     },
     {
